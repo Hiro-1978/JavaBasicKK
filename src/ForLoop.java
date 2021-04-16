@@ -14,8 +14,14 @@ public class ForLoop {
       //  int count; ใช้ได้ทั่วไป
         for(int count=1;count<=10;count++){              // ใช้ได้เฉพาะใน forloop
             // คำสั่งที่จะทำซ้ำ
-            System.out.println("Hello World");
-            
+            // แบบเพิ่มค่า
+            System.out.println("Hello World");            
+        }
+        
+        for(int count=10;count>0;count--){              // ใช้ได้เฉพาะใน forloop
+            // คำสั่งที่จะทำซ้ำ
+            // แบบลดค่า
+            System.out.println(count);            
         }
     }
 }
