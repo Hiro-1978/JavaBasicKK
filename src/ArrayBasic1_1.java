@@ -2,7 +2,7 @@
 public class ArrayBasic1_1 {
     public static void main(String[] args){
         // Array 2 มิติ
-        String [][]product = {
+        String[][] product = {
             {"เก้าอี้","โต๊ะ","โคมไฟ"},
             {"คีย์บอร์ด","เม้าส์","แป้นพิมพ์"},
             {"ลิปติก","โรลออน","ครีม"}

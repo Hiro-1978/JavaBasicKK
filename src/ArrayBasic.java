@@ -14,7 +14,7 @@ public class ArrayBasic {
         */
         
         // แบบกำหนดสมาชิก
-        int []number={10,20,30,40,50,70};
+        int[] number={10,20,30,40,50,70};
         System.out.println("ก่อนเปลี่ยนตำแหน่งที่ 5 = "+number[5]);
         number[5] = 100; // เปลี่ยนค่าในตำแหน่งที่ 5
         System.out.println("หลังเปลี่ยนตำแหน่งที่ 5 = "+number[5]);
